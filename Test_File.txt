@@ -7,3 +7,5 @@ Hi it's Monica.
 working on the same file with monica. yay!!
 
 i see you changes now! Great! 
+
+Adding a new line at the end of the file.
